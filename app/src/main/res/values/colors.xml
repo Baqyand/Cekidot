@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimaryBackground">#0886c7</color>
+    <color name="colorFormBackground">#e4e4e4</color>
+    <color name="colorGrey">#F5F5F5</color>
+    <color name="colorProfile">#F2F2F2</color>
+    <color name="colorRed">#FF0404</color>
+    <color name="colorBluePale">#4b4eb5</color>
+    <color name="colorSemiBlue">#F0F0F0</color>
+    <color name="colorPrimary">#14213D</color>
+    <color name="colorPrimaryDark">#14213D</color>
+    <color name="colorAccent">#37425A</color>
+    <color name="Birutua">#14213D</color>
+    <color name="Putih">#FFFFFF</color>
+    <color name="AbuPutih">#EEEEEE</color>
+    <color name="Abu029">#00000029</color>
+    <color name="Abutua">#37425A</color>
+    <color name="AbulumayanTua">#14213D91</color>
+    <color name="Hitam">#000000</color>
+    <color name="Abulumayan">#B0B0B0</color>
+    <color name="Abukurang">#707070</color>
+    <color name="Blue">#3065D8</color>
+</resources>
